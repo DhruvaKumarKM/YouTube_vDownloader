@@ -16,7 +16,7 @@ def download_video():
 
 root = tk.Tk()
 root.title("YouTube Video Downloader created by DHRUVA")
-root.config(bg='grey')
+root.config(bg='black')
 root.geometry("600x400")
 root.geometry('500x570+100+30')
 
