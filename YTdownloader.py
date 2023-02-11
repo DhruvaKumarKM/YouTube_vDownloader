@@ -16,8 +16,8 @@ def download_video():
 
 root = tk.Tk()
 root.title("YouTube Video Downloader created by DHRUVA")
-root.config(bg='black')
-root.geometry("600x400")
+root.config(bg='grey')
+#root.geometry("600x400")
 root.geometry('500x570+100+30')
 
 url_label = tk.Label(root, text="Enter the URL of the YouTube video:")
